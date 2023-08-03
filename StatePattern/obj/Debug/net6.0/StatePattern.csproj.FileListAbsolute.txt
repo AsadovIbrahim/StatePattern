@@ -1,0 +1,15 @@
+C:\Users\Asus\source\repos\StatePattern\StatePattern\bin\Debug\net6.0\StatePattern.exe
+C:\Users\Asus\source\repos\StatePattern\StatePattern\bin\Debug\net6.0\StatePattern.deps.json
+C:\Users\Asus\source\repos\StatePattern\StatePattern\bin\Debug\net6.0\StatePattern.runtimeconfig.json
+C:\Users\Asus\source\repos\StatePattern\StatePattern\bin\Debug\net6.0\StatePattern.dll
+C:\Users\Asus\source\repos\StatePattern\StatePattern\bin\Debug\net6.0\StatePattern.pdb
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfoInputs.cache
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.AssemblyInfo.cs
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.dll
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\refint\StatePattern.dll
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.pdb
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\StatePattern.genruntimeconfig.cache
+C:\Users\Asus\source\repos\StatePattern\StatePattern\obj\Debug\net6.0\ref\StatePattern.dll
